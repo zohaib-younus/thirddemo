@@ -5,3 +5,8 @@ new changes
 updated for reset
 
 working to updated fast forward
+
+
+
+
+update for merge commit
